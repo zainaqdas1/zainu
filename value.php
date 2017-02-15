@@ -9,9 +9,7 @@ array(
     "mesum",
 ),
 array(
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
+"",
 )),
 
 array(
@@ -23,56 +21,39 @@ array(
                     "server",
 ),
 array(
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
+"",
 )),
 
 array(
 array(
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
+"",
 ),
 array(
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
+"",
 )),
 
 array(
 array(
-            "♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
+            "",
 ),
 array(
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
+"",
 )),
 
 array(
 array(
-            "♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-❤ <me> ⏩ ZAIN AQDAS ❤",
+            "",
 ),
 array(
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
+"",
 )),
 
 array(
 array(
-            "♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
+            "",
 ),
 array(
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
+"",
 )),
 
 array(
@@ -85,84 +66,40 @@ array(
 "anjing",
 ),
 array(
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
+"",
 )),
 
 array(
 array(
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
+"",
 )),
 );
 
 $botNormal=array(
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
+"",
+"",
+"",
+"",
+"",
+"",
 );
 
 $botNomer=array(
 array(
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
+"",
 ),
 array(
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
+"",
 ),
 array(
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
+"",
 ),
 array(
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
+"",
 ));
 
 $botPhoto=array(
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤ ",
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
-"♥c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-❤ <me> ⏩ ZAIN AQDAS ❤",
+"",
 );
 
 function getJam($name){
@@ -244,9 +181,10 @@ $tps=$me.' '.$gwe[name];
 $like=$backk[rand(0,count($backk)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site=',';
+$site=',♥ Chaudhrys Botter ♥
+|| Chaudhrys-Web.Tk || Self Bot ||';
 $true=$opss.'
- '.$ips.'
+💢'.$ips.'
  '.$site;
 
 return $true;
