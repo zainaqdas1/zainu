@@ -57,9 +57,9 @@ if(!isset($_SESSION['logged']) || $_SESSION['logged'] ==  false){
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 ♥CHAUDHRYS BOTTER♥
-</title><link rel="stylesheet" type="text/css" href="http://flambon.xtgem.com/fmb/grad.css"
+</title><link rel="stylesheet" type="text/css" href="http://flambon.wen.ru/a/natural_designa.css"
 
-</title><link rel="stylesheet" type="text/css" href="http://flambon.xtgem.com/fmb/grad_box.css" media="all,box.css"/><link rel="shortcut icon" href="">
+</title><link rel="stylesheet" type="text/css" href="http://flambon.wen.ru/a/natural_designa.css" media="all,box.css"/><link rel="shortcut icon" href="">
 <?php error_reporting(0);
 $bot=new bot();
 class bot{ 
