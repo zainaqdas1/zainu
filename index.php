@@ -47,7 +47,7 @@ if(!isset($_SESSION['logged']) || $_SESSION['logged'] ==  false){
       }
 
      }else{
-     	$loginerror = "Please enter Password!";
+     	$loginerror = "Please enter this Password¡ ( lolxhaters )";
      }
   }
 }
