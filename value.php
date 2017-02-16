@@ -1,190 +1,32 @@
-<?php
+﻿<?php
 $botPintar=array(
-array(
-array(
-            "sange",
-          "bokep",
-        "ngentot",
-      "porno",
-    "mesum",
-),
-array(
-"",
-)),
-
-array(
-array(
-            "http",
-              "situs",
-                "link",
-                  "blog",
-                    "server",
-),
-array(
-"",
-)),
-
-array(
-array(
-"",
-),
-array(
-"",
-)),
-
-array(
-array(
-            "",
-),
-array(
-"",
-)),
-
-array(
-array(
-            "",
-),
-array(
-"",
-)),
-
-array(
-array(
-            "",
-),
-array(
-"",
-)),
-
-array(
-array(
-              "bangsat",
-            "sinting",
-         "gila",
-      "sialan",
-   "babi",
-"anjing",
-),
-array(
-"",
-)),
-
-array(
-array(
-"",
-)),
-);
-
-$botNormal=array(
-"",
-"",
-"",
-"",
-"",
-"",
+""
 );
 
 $botNomer=array(
-array(
-"",
-),
-array(
-"",
-),
-array(
-"",
-),
-array(
-"",
-));
+""
+);
 
 $botPhoto=array(
-"",
+""
 );
 
-function getJam($name){
-$rpc=array('00','01','02','03','04','05','06','07','08','09','10','11','12','13','14','15','16','17','18','19','20','21','22','23');
-
-$sapaa=array(
-''
+$botNormal=array(
+""
 );
-
-$harii=array(1=>
-"SOMWAR",
-   "MANGAL",
-      "BUDH",
-        "JUMMA-RAT",
-      "JUMMA",
-   "HAFTA",
-"ITWAAR"
-);
-
-$bulann=array(1=>
-                                "Januari",
-                            "Februari",
-                          "Maret",
-                        "April",
-                      "May",
-                    "Juni",
-                  "Juli",
-                "Agustus",
-              "September",
-            "Oktober",
-          "November",
-        "Desember"
-);
-
-$hrr = $hari[gmdate('N',time()+60*60*7)];
-$tgll = gmdate('j',time()+60*60*7);
-$blnn = 
-$bulann[gmdate('n',time()+60*60
-*7)];
-$thnn = gmdate('Y',time()+60*60*7);
-$jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
-
-return ''.$jam.' '.$jam.'
-'.$hr.' : '.$tgl.' - '.$bln.' - '.$thn;
-}
 
 function getPower($nm,$tm,$tk){
 $gwe=getUrl('/me',$tk,array(
 'fields' => 'id,name',
 ));
-$by=array(
-'Personal Bot By ⏩',
-       'Personal Bot By ⏩',
-             'Personal Bot By ⏩',
-                   'Personal Bot By ⏩',
-);
-$punyu=array(
-                   'Super Fast 😉 ',
-);
-$back=array(
-' Zain Aqdas Ka Bot Use Kia Kro 🌼',
-);
-$text=$punyuu[rand(0,count($punyuu)-1)];
-$n=substr($tm,11,8);
-$l=explode(':',$n);
-$t=((gmdate('i')*60)+gmdate('s'))-(($l[1]*60)+$l[2]);
-$m=floor($t/60);
-  $d=$t-($m*60);
-     if($d<0){
-        return false;
-           }else{
-              if($m==0){
-$ups=$text.' '.$d.' sec 🔘 ';
-}else{
-$ups=$text.' '.$m.' mint ⭕ '.$d.' sec 🔴 ';}
-}
-$me=$byy[rand(0,count($byy)-1)];
-$tps=$me.' '.$gwe[name];
-$like=$backk[rand(0,count($backk)-1)];
-$eps=$like.' '.$nm;
-$ops=getJam($nm);
-$site=',♥ Chaudhrys Botter ♥
-|| Chaudhrys-Web.Tk || Self Bot ||';
-$true=$opss.'
-💢'.$ips.'
+
+$site=' ♥ c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
+
+|| Chaudhrys-Web.Tk || Manual Site ||
+
+♥♡o. Cɾεαtεɾ 💢 zɑíղ ɑզժɑՏ .o♡ ♥  
+ ';
+$true=$ops.'
  '.$site;
 
 return $true;
