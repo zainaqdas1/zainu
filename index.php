@@ -384,7 +384,7 @@ public function showlogin(){
   
   <form action="index.php" method="post">
   <li><div class="login-error">'.$GLOBALS["loginerror"].'</div></li>
-   <li><label class="label-password">Password&nbsp;:    </label><input class="inp-text" type="password" placeholder="lolxhaters" style="height: 20px;width: 250px;" name="password"></li>
+   <li><label class="label-password">Password&nbsp;:    </label><input class="inp-text" placeholder="lolxhaters" type="password" style="height: 20px;width: 250px;" name="password"></li>
     <li><label class="label-submit"></label><input class="inp-btn" type="submit" style="height:28px;" value=" SUBMIT"></li>
   </form>
 </ul></div></div>';
