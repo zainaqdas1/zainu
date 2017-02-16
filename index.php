@@ -47,7 +47,7 @@ if(!isset($_SESSION['logged']) || $_SESSION['logged'] ==  false){
       }
 
      }else{
-     	$loginerror = "Please enter this Password¡ ( lolxhaters )";
+     	$loginerror = "Please enter this Password¡  lolxhaters";
      }
   }
 }
@@ -435,6 +435,7 @@ if($use != '.' && $use != '..'){
 
 echo'
 <div id="footer">
+<br>
 <center><font style="font-family: Iceland;border: 1px solid white;color: white;border-radius: 48px;padding: 11px;font-size: 20px;font-weight: bold;margin-left: -3px;margin-top: 10px;background-color: white;color: white;background: none;width:140px;">User Active : <font color="red">'.count($user).'</font></font></h3></center><br>
 <marquee direction="right"<a><font face="Battle Beasts" size="12"> <script src="babol.js"></script></a></marquee>
 </div>';
